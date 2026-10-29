@@ -1,2 +1,1 @@
-# SWYNEX-Cloud-Architecture-Outline
-Cloud architecture outline for a web application
+Copy this complete text and paste it into the editor.
